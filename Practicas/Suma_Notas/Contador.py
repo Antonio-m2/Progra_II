@@ -1,5 +1,5 @@
 def contar_elementos_buscados():
-  lista_fija = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10) 
+  lista_fija = (1, 2, 3, 4, 2, 6, 7, 8, 9, 10) 
   contador = 0
 
   print("Contador de elementos buscados en la lista:")
